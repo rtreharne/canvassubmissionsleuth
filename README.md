@@ -10,7 +10,7 @@ This tool lets you take a much deeper look at the Meta Data associated with a Ca
 
 
 ## Run Using Goolge Colab (Easiest Method)
-- [Google Colab](https://colab.research.google.com/drive/1rTJIuVO-sCQXt4ZWThDeX61m3zLvI_rz?usp=sharing)
+- [Google Colab](https://colab.research.google.com/drive/1Y6n44PnfTqQsmRK_JRKw0lDMQyoKCTn9?usp=sharing)
 
 ## Virtual Environment Setup
 To create a virtual environment and install dependencies:
