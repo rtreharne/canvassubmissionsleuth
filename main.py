@@ -1,12 +1,12 @@
 import pandas as pd
 from canvasapi import Canvas
-from tqdm import tqdm
+from getpass import getpass
 
 def create_canvas_session(API_URL, API_TOKEN):
     # Prompt for API credentials if not provided
     if not API_URL or not API_TOKEN:    
         API_URL = input("Please input your Canvas URL, e.g. 'https://canvas.liverpool.ac.uk': ")
-        API_TOKEN = input("Please input your API token: ") 
+        API_TOKEN = getpass("Please input your API token: ") 
     
     # Create and return a Canvas API session
     canvas = Canvas(API_URL, API_TOKEN) 

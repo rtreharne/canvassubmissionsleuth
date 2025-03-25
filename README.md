@@ -8,8 +8,6 @@ This tool was created by Jack Foster and Robert Treharne from the School of Bios
 
 This tool lets you take a much deeper look at the Meta Data associated with a Canvas assignment's submissions.
 
-## Features
-
 
 ## Run Using Goolge Colab (Easiest Method)
 - [Google Colab](https://colab.research.google.com/drive/1rTJIuVO-sCQXt4ZWThDeX61m3zLvI_rz?usp=sharing)
